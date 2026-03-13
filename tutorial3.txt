@@ -1,0 +1,40 @@
+Tutorial 4: PHY121
+
+1. A proton at speed v = 5.00 × 10^6 m/s orbits at radius r = 200 cm outside
+a charged sphere. Find the sphere's charge.
+
+2. A cube has sides of length L and sits on the coordinate axes. The electric
+field in the region is E = (a + bx)i^ + cj^. Find the electric flux through
+each of the six cube faces and the total electric flux.
+
+3. The electric potential of some configuration is given by the expression
+
+   V(r) = A * (e^(-λr) / r) + B/r,
+
+where A, B, and C are constants. Find the electric field E(r), the charge
+density ρ(r), and the total charge Q.
+
+4. Find the energy stored in a uniformly charged solid sphere of radius R
+and charge q. Do it in three different ways:
+
+   (i)  Use W = (1/2) ∫ ρV dτ. Find the potential first.
+   (ii) Use W = (ε₀/2) ∫ E² dτ. Don't forget to integrate over all space.
+
+5. Find the electric field inside and outside a sphere that carries a charge
+density of the form ρ(r) = a + br − cr^3, for some arbitrary constants a, b.
+
+6. A long, straight wire has length L and a circular cross-section with area
+πa². Arrange two such wires so they are parallel and separated by a
+distance d. You may assume that L >> d >> a and ignore end effects.
+
+   (i)  Graph the electrostatic potential along the straight line that connects
+        the center of one wire to the center of the other wire for the case when
+        the two wires have equal and opposite charge per unit length.
+   (ii) Derive an approximate expression for the capacitance of this two-
+        conductor system.
+
+7. Find the potential due to a uniformly charged solid sphere of radius R
+and charge q at points: (i) inside  (ii) on the surface and (iii) outside the
+sphere. Also plot how the potential varies across the distance.
+
+8. Find the potential of a uniformly charged spherical shell of radius R.
